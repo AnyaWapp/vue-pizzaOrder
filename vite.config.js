@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "https://anyawapp.github.io/vue-pizzaOrder/",
+  base: "https://anyawapp.github.io/vue-pizzaOrder",
   plugins: [
     vue(),
     vueDevTools(),
